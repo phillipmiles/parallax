@@ -1,0 +1,2 @@
+# parallax
+Reusable module for handling parallax websites. This really is a fork of Dave Gamache's code found here https://github.com/dhg/davegamache/tree/master/parallax and whose explanation of the practices used is found here https://medium.com/@dhg/parallax-done-right-82ced812e61c however Dave's repo is currently mixed up with his portfolio so I'm creating a fresh repo here instead of forking from that.
