@@ -1,6 +1,8 @@
 # Parallax Controller
 Reusable module for handling parallax websites. The module makes use of a set and forget process. At initialisation you need to provide the module with an array of detailed Javascript objects dictating how the various parallax elements should behave. Then the parallax controller takes care of the rest.
 
+**View demo https://phillipmiles.github.io/parallax-controller/**
+
 This module uses many of the parallax best practices outlined by Dave Gamache here https://medium.com/@dhg/parallax-done-right-82ced812e61c. I've also included and extended upon parts of his code found here https://medium.com/@dhg/parallax-done-right-82ced812e61c. Main improvements made in this version include more granular control over animation timings as well as support for the parallax to initialise correctly no matter what scroll position the page loaded in at.
 
 ## Setup and use
